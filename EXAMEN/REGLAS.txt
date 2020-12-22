@@ -1,0 +1,15 @@
+R1:La planta crece muy poco
+R2:La planta tiene un color amarillo palido
+R3:La planta tiene hojas de color pardo rojizo
+RESPUESTA :"La planta tiene deficiencia de nitrogeno"
+
+R4:La planta tiene tallos debilitados
+R5:La planta tiene semillas marchitas
+R6:La planta tiene frutas marchitas
+RESPUESTA:"La planta tiene deficiencia de potasio"
+
+R7:La raiz de la planta crece poco
+R8:La planta tiene tallo fusiforme
+R9:La planta tiene color purpura
+R10:La planta tiene retraso de madurez
+RESPUESTA:"La planta tiene deficiencia de fosforo"
